@@ -1,6 +1,3 @@
-// Siya Kamat
-// Period 7
-
 class Main {
   public static void main(String[] args) {
     Student siya = new Student("Siya");
